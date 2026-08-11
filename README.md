@@ -2,7 +2,7 @@
 
 <img src="Dashboard Image.png" alt="British Airways Review Dashboard" width="1000">
 
-*[Akses dashboard interaktif di Tableau Public](https://public.tableau.com/views/AirwaysReviewDashboard_17634490901250/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+*[Akses dashboard interaktif di Tableau Public](https://public.tableau.com/app/profile/muhammad.raihan.gibran/viz/airways_dashboard_analysis/Dashboard1#1)*
 
 ## 📌 Business Context
 
